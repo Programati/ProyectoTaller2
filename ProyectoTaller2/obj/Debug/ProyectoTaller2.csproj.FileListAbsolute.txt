@@ -1,0 +1,62 @@
+E:\Curso C#\Practicos en C#\ProyectoTaller2\ProyectoTaller2\bin\Debug\ProyectoTaller2.exe.config
+E:\Curso C#\Practicos en C#\ProyectoTaller2\ProyectoTaller2\bin\Debug\ProyectoTaller2.exe
+E:\Curso C#\Practicos en C#\ProyectoTaller2\ProyectoTaller2\bin\Debug\ProyectoTaller2.pdb
+E:\Curso C#\Practicos en C#\ProyectoTaller2\ProyectoTaller2\bin\Debug\FontAwesome.Sharp.dll
+E:\Curso C#\Practicos en C#\ProyectoTaller2\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.AssemblyReference.cache
+E:\Curso C#\Practicos en C#\ProyectoTaller2\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.SuggestedBindingRedirects.cache
+E:\Curso C#\Practicos en C#\ProyectoTaller2\ProyectoTaller2\obj\Debug\ProyectoTaller2.FormMainMenu.resources
+E:\Curso C#\Practicos en C#\ProyectoTaller2\ProyectoTaller2\obj\Debug\ProyectoTaller2.Properties.Resources.resources
+E:\Curso C#\Practicos en C#\ProyectoTaller2\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.GenerateResource.cache
+E:\Curso C#\Practicos en C#\ProyectoTaller2\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.CoreCompileInputs.cache
+E:\Curso C#\Practicos en C#\ProyectoTaller2\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.CopyComplete
+E:\Curso C#\Practicos en C#\ProyectoTaller2\ProyectoTaller2\obj\Debug\ProyectoTaller2.exe
+E:\Curso C#\Practicos en C#\ProyectoTaller2\ProyectoTaller2\obj\Debug\ProyectoTaller2.pdb
+E:\Curso C#\Practicos en C#\ProyectoTaller2\ProyectoTaller2\obj\Debug\ProyectoTaller2.FormVenta.resources
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\bin\Debug\ProyectoTaller2.exe.config
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\bin\Debug\ProyectoTaller2.exe
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\bin\Debug\ProyectoTaller2.pdb
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.FormMainMenu.resources
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.FormVenta.resources
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.CopyComplete
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.exe
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.pdb
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.formLogin.resources
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\bin\Debug\ProyectoTaller2.exe.config
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\bin\Debug\ProyectoTaller2.exe
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\bin\Debug\ProyectoTaller2.pdb
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\bin\Debug\FontAwesome.Sharp.dll
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.AssemblyReference.cache
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.FormMainMenu.resources
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.formLogin.resources
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.FormVenta.resources
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.Properties.Resources.resources
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.GenerateResource.cache
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.CoreCompileInputs.cache
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.CopyComplete
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.exe
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.pdb
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.FormCliente.resources
+D:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.FormRegistroCliente.resources
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.FormCliente.resources
+C:\Users\tomas\OneDrive\Escritorio\Taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.FormRegistroCliente.resources
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\bin\Debug\ProyectoTaller2.exe.config
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\bin\Debug\ProyectoTaller2.exe
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\bin\Debug\ProyectoTaller2.pdb
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\bin\Debug\FontAwesome.Sharp.dll
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.AssemblyReference.cache
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.FormMainMenu.resources
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.FormCliente.resources
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.formLogin.resources
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.FormRegistroCliente.resources
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.FormVenta.resources
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.Properties.Resources.resources
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.GenerateResource.cache
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.CoreCompileInputs.cache
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.csproj.CopyComplete
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.exe
+F:\Proyectos taller 2\ProyectoTaller2-main\ProyectoTaller2\obj\Debug\ProyectoTaller2.pdb
